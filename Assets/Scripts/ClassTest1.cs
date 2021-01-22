@@ -16,6 +16,6 @@ public class ClassTest1 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        print("code from feature 2");
     }
 }
